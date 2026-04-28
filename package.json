@@ -1,10 +1,13 @@
 {
   "name": "ftf-bob-bot",
   "version": "1.0.0",
-  "description": "Bob — Flip to Freedom internal Slack assistant",
+  "description": "Bob - Flip to Freedom Slack bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.24.3",
