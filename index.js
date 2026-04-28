@@ -60,7 +60,7 @@ KEY LINKS:
 Sales Dashboard - https://fliptofreedom.edgeone.app/
 Onboarding Form - https://ftf-onboardingform.pages.dev/
 Power Dialer - https://flip-to-freedom-dialer.pages.dev/
-Booking Form - https://flip-to-freedombookingform.pages.dev/
+Booking Link - https://calendly.com/d/cyjm-psj-j8w/flip-to-freedom-strategy-call
 New Set Form - https://docs.google.com/forms/d/1LALQe8bTO2Nq_T9GGJLCfzK0mSKD-F3WG4-ttHjd5vo/edit?ts=69e92836
 
 HOUSE FLIPPING KNOWLEDGE:
